@@ -1,2 +1,1 @@
 # DSAndAlgo
-Datastructure And Algorithms
